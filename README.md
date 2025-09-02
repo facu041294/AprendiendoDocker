@@ -94,7 +94,7 @@ Similar a la captura del punto 3b, mostrando de nuevo el resultado exitoso de la
 
 ---
 
-### Conclsión
+### Conclusión
 La práctica se completó con éxito, cubriendo todos los puntos de la consigna y demostrando una comprensión fundamental del ciclo de vida de los contenedores de Docker, el mapeo de puertos y, crucialmente, la gestión de la persistencia de datos a través de volúmenes.
 
 ---
